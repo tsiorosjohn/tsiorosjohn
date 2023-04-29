@@ -1,8 +1,12 @@
 Hi!
 
-I'm an experienced Senior Technical Support Engineer and Workgroup Manager at Nokia specializing mainly in Packet Core & EPC technologies. 
+I'm an experienced Senior Technical Support Engineer and Workgroup Manager working at Nokia and specializing mainly in Packet Core & EPC technologies. 
+
+I'm primarily working with python and bash scripting in my everyday job for automation and for fun as well.
+My popular framework is Django and I usually deploy my Django projects with Docker compose or Kubernetes.
 
 You can check my LinkedIn profile and connect with me here: https://www.linkedin.com/in/ioannis-tsioros/
+
 <!--
 **tsiorosjohn/tsiorosjohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
