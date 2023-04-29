@@ -1,4 +1,4 @@
-### Hi
+Hi!
 
 I'm an experienced Senior Technical Support Engineer and Workgroup Manager at Nokia specializing mainly in Packet Core & EPC technologies. 
 
