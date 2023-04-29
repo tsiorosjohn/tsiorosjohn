@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi
 
+I'm an experienced Senior Technical Support Engineer and Workgroup Manager at Nokia specializing mainly in Packet Core & EPC technologies. 
+
+You can check my LinkedIn profile and connect with me here: https://www.linkedin.com/in/ioannis-tsioros/
 <!--
 **tsiorosjohn/tsiorosjohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
